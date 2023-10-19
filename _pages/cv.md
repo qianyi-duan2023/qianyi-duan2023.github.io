@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Spatial information and digital technology, School of Remote Sensing and Information Engineering, Wuhan University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July.2022-Precent: Research Assistant
+  * Wuhan University
+  * Duties included: 3D-GIS system development, Research on remote sensing change detection
+  * Supervisor: Professor Xiaoliang Meng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pytorch, Py2neo
+* Full Stack Programming for Web Applications
+  * Front-end development frameworks (such as VUE)
+  * Back-end java springboot development
+  * Geo-database development(such as PostGIS, mongoDB, spark, etc.)
+* Geography, remote sensing data processing and analysis
 
 Publications
 ======
@@ -54,6 +47,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
